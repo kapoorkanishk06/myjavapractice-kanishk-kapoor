@@ -6,9 +6,9 @@ class student {
 
     // default constructor
     student() {
-        rollNo = 0;
+        rollNo = 101;
         name = "Kanishk";
-        marks = 0;
+        marks = 85;
     }
 
     // parameterized constructor
