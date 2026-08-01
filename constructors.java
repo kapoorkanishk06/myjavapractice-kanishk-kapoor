@@ -7,7 +7,7 @@ class student {
     // default constructor
     student() {
         rollNo = 0;
-        name = "Unknown";
+        name = "Kanishk";
         marks = 0;
     }
 
